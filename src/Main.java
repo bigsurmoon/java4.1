@@ -5,7 +5,6 @@ public class Main {
         int price = 10_000;
         int miles = service.calculate(32_000);
         System.out.println(miles);
-
     }
 }
 
